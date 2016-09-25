@@ -2,6 +2,7 @@
 main(){
 printf("hello world its me prem!");
 printf("how are you");
+printf("============================");
 int N,i,j;
 printf("enter order of the matrix:");
 scanf("%d",&N);
