@@ -1,6 +1,6 @@
 #include<stdio.h>
 main(){
-printf("hello world !")
+printf("hello world its me prem!")
 int N,i,j;
 printf("enter order of the matrix:");
 scanf("%d",&N);
